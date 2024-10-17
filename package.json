@@ -1,0 +1,33 @@
+{
+  "name": "celing",
+  "version": "1.1.1",
+  "description": "A CLI to create license in your project",
+  "main": "bin/index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [
+    "cli",
+    "ronit raj",
+    "ronit",
+    "ronitrajfr",
+    "celing",
+    "license",
+    "cli license",
+    "cli-license",
+    "cli-license-generator",
+    "cli-license-maker"
+  ],
+  "bin": {
+    "celing": "./bin/index.js"
+  },
+  "author": "Ronit Raj",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "figlet": "^1.8.0",
+    "inquirer": "^12.0.0",
+    "ora": "^8.1.0",
+    "zod": "^3.23.8"
+  }
+}
