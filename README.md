@@ -1,8 +1,6 @@
 <h1 align="center">Say Hello to <a href="https://www.npmjs.com/package/celing">Celing</a>
 </h1>
 
-<img width="1000" alt="header image" src="/header.png">
-
 Celing is a simple command-line interface (CLI) tool for generating MIT and Apache licenses. It streamlines the process of license creation for your projects.
 
 ### Installation
